@@ -1,0 +1,39 @@
+# Binaries
+/excel_filter
+/excel_filter.exe
+/excel_filter.zip
+
+# Go-related files
+/bin/
+/pkg/
+*.exe
+*.out
+*.test
+
+# Go modules
+go.sum
+go.work
+go.work.sum
+
+# Logs & Debugging
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+*.DS_Store
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+
+# Compiled Object files
+*.o
+*.a
+*.so
+
+# Excel data (optional)
+data/output.xlsx
+data/*.csv
